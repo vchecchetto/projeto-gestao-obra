@@ -4,7 +4,7 @@
 <p align="justify"><br><b>Atualização:</b><br>Implementação de backup do banco de dados local em uma conta de armazenamento da nuvem da Azure. O envio é feito de forma manual ou automatizada ao sair da aplicação.</p>
 
 <div align="center">
-  <br><br><p><b>Home (New)</b></p>
+  <br><br><p><b>Home (Nova Tela)</b></p>
   <img src="https://github.com/vchecchetto/projeto-gestao-obra/assets/128191389/7864895f-555b-4119-ab2c-0cfde35b60f4" width="800px">
   <br><br><p><b>Confirmação para Salvar Manualmente</b></p>
   <img src="https://github.com/vchecchetto/projeto-gestao-obra/assets/128191389/75e2eb1b-c4ea-4748-b521-35dd803a4422" width="800px">
@@ -14,7 +14,7 @@
   <img src="https://github.com/vchecchetto/projeto-java-gestao-obra/assets/128191389/7128d16b-8dff-47f1-abeb-cba6ea3a0df6" width="400px">
   <br><br><p><b>Cadastro de Usuário</b></p>
   <img src="https://github.com/vchecchetto/projeto-java-gestao-obra/assets/128191389/e7c40992-a2b6-4f57-8270-122f43c3254a" width="400px">
-  <br><br><p><b>Home (Antiga)</b></p>
+  <br><br><p><b>Home (Antiga Tela)</b></p>
   <img src="https://github.com/vchecchetto/projeto-java-gestao-obra/assets/128191389/15747ee4-93c2-4bce-b755-044b1bb9517b" width="800px">
   <br><br><p><b>Agenda</b></p>
   <img src="https://github.com/vchecchetto/projeto-java-gestao-obra/assets/128191389/ecee22db-9f51-4811-80e8-2625dd4093c2" width="800px">
