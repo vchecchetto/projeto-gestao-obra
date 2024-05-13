@@ -1,8 +1,7 @@
 # Projeto Gestão de Obra com Cloud
 
-<p align="justify">Projeto desenvolvido com propósitos acadêmicos, consiste em um software destinado a mestres de obras e trabalhadores da construção civil. Seu objetivo é enfrentar desafios como a desorganização na gestão de agendas e a 
-  falta de controle eficiente de dados de clientes e pagamentos. Com um enfoque na modernização do setor, a solução busca oferecer uma ferramenta intuitiva e eficaz para o gerenciamento de clientes, agendas, pagamentos e inventário de ferramentas.</p><br>
-<p align="justify">Atualização:</b><br>Implementação de backup do banco de dados local em uma conta de armazenamento da nuvem da Azure. O envio é feito de forma manual ou automatizada ao sair da aplicação.</p>
+<p align="justify">Projeto desenvolvido com propósitos acadêmicos, consiste em um software destinado a mestres de obras e trabalhadores da construção civil. Seu objetivo é enfrentar desafios como a desorganização na gestão de agendas e a falta de controle eficiente de dados de clientes e pagamentos. Com um enfoque na modernização do setor, a solução busca oferecer uma ferramenta intuitiva e eficaz para o gerenciamento de clientes, agendas, pagamentos e inventário de ferramentas.</p>
+<p align="justify"><br><b>Atualização:</b><br>Implementação de backup do banco de dados local em uma conta de armazenamento da nuvem da Azure. O envio é feito de forma manual ou automatizada ao sair da aplicação.</p>
 
 <div align="center">
   <br><br><p><b>Home (New)</b></p>
